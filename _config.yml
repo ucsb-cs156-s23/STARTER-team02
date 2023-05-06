@@ -23,4 +23,4 @@ repo_name: "This-should-be-overridden-by-github-actions-script"
 repo: ucsb-cs156-s23/STARTER-team02
 owner: ucsb-cs156-s23
 repo_name: STARTER-team02
-pull_requests: [{"author":{"is_bot":true,"login":"app/dependabot"},"headRefName":"dependabot/npm_and_yarn/frontend/minimist-1.2.8","number":1,"title":"Bump minimist from 1.2.5 to 1.2.8 in /frontend","url":"https://github.com/ucsb-cs156-s23/STARTER-team02/pull/1"}]
+pull_requests: []
